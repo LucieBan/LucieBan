@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucy Banszelová 👋
 
-I am a Data Science student currently working in the corporate world as an **SAP BW/BI AMS & IT Analyst at Škoda Auto**. While my coporate role focuses on system monitoring, translating technical tickets into solutions, and tracking process quality within the TQM framework using Power BI, I am using my Master's studies to dive into modern data engineering, cloud solutions, and automation.
+I am a **Data Science student** currently working in the corporate world as an **SAP BW/BI AMS & IT Analyst at Škoda Auto**. While my coporate role focuses on system monitoring, translating technical tickets into solutions, and tracking process quality within the TQM framework using Power BI, I am using my Master's studies to dive into modern data engineering, cloud solutions, and automation.
 
 ---
 
@@ -8,7 +8,7 @@ I am a Data Science student currently working in the corporate world as an **SAP
 
 - 🌍 Based in Czechia 🇨🇿
 - 🎓 Master's Student in Data Science at University of Hradec Králové (FIM UHK)
-- 🏑 Ex-**field hockey** player, now enjoying gym, inline-skating, and biking
+- 🏑 Ex-field hockeyplayer, now enjoying gym, inline-skating, and biking
 - 💼 Open to Data Engineering roles
 
 ---
