@@ -19,7 +19,7 @@ I am a **Data Science student** currently working in the corporate world as an *
 | **Languages** | HTML, CSS, JavaScript, React, Python, SQL, R, MATLAB, ABAP |
 | **Data Engineering** | ETL pipeline, Data Modeling, System Monitoring |
 | **Enterprise & BI** | SAP BW, Power BI, Power Automate |
-| **Databases & Tools** | MySQL, NoSQL, Git, Bitbucket, Eclipse |
+| **Databases & Tools** | MySQL, MongoDB, Git, Bitbucket, Eclipse |
 | **Data analysis & ML** | Numpy, Pandas, TensorFlow |
 | **Web & Visualization**| Plotly, Figma |
 
