@@ -8,7 +8,6 @@ I am a **Data Science student** currently working in the corporate world as an *
 
 - 🌍 Based in Czechia 🇨🇿
 - 🎓 Master's Student in Data Science at University of Hradec Králové (FIM UHK)
-- 🏑 Ex-field hockeyplayer, now enjoying gym, inline-skating, and biking
 - 💼 Open to Data Engineering roles
 
 ---
