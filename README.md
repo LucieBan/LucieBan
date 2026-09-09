@@ -34,9 +34,6 @@ I am a **Data Science student** currently working in the corporate world as an *
 *   **Research Intern @ IHMC, Florida, USA** *(Sep 2023 – Dec 2023)*
     *   Conducted research focused on human motion capture and analysis using OptiTrack.
     *   Utilized BTK libraries and MATLAB for data processing in an international team environment.
-*   **Community**
-    *   Active member of the Student Senate at FIM UHK.
-    *   EU Careers Student Ambassador.
 
 ---
 
