@@ -28,9 +28,9 @@ I am a **Data Science student** currently working in the corporate world as an *
 ## 💼 Professional Journey
 
 *   **IT Analyst @ Škoda Auto (SAP BW BI)** *(Sep 2024 – Present)*
-    *   Providing Application Management Support (AMS) and system monitoring for enterprise SAP BW systems.
-    *   Translating complex business requirements into technical solutions and data models.
-    *   Ensuring process and data quality within the TQM framework by tracking metrics and performance via Power BI dashboards.
+    *   L2 AMS, suppor t and maintain VW’ s internal SA P BW systems (ZEUS and IUP) accessed via SAP GUI
+    *  Implement SAP CERT notes and FIORI code deployments (Bitbucket, BAS, Bamboo), manage user roles and authorizations
+    *  Liaise between business stakeholders and technical team, system monitoring, supporting reporting, and ensuring data quality within the TQM framework (Power BI)
 *   **Research Intern @ IHMC, Florida, USA** *(Sep 2023 – Dec 2023)*
     *   Conducted research focused on human motion capture and analysis using OptiTrack.
     *   Utilized BTK libraries and MATLAB for data processing in an international team environment.
